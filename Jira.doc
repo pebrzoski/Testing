@@ -1,0 +1,3381 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://pebrzoski.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-50]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-50">1 artykuł dziennie. Przeczytać w miare ze zrozumieniem</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 03/lut/19
+
+                                                    &nbsp;Rozwiązane: 03/lut/19
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Gotowe</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Gotowe
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10111-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-51">TP-51</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-51">https://medium.com/@101/quality-assur...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        W toku
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-52">TP-52</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-52">https://hackernoon.com/software-devel...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-53">TP-53</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-53">https://medium.com/qasymphony/64-test...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-54">TP-54</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-54">https://medium.com/@allThingsIT/softw...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-55">TP-55</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-55">https://medium.com/@muditarora31/test...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-56">TP-56</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-56">https://medium.com/@sandamalperera/in...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10111-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Komentarze</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10019"><td bgcolor="#f0f0f0">
+            Skomentowane przez  
+                                                            
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_commented_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">15/sty/19</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10019"><td bgcolor="#ffffff">
+            <p>Jestem w trakcie czytania pierwszego atykułu</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-44]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-44">JIRA</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 24/sty/19
+
+                                                    &nbsp;Rozwiązane: 24/sty/19
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Gotowe</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Gotowe
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10105-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-45">TP-45</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-45">Tworzenie Sprintu</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-46">TP-46</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-46">Widok KANBAN vs SCRUM: jakie są róznice</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-47">TP-47</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-47">Tworzenie tasków, user stories, bugs,...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-48">TP-48</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-48">Przeglądanie Raportów w JIRA: wykres ...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-49">TP-49</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-49">Więcej Stanow w Jira: wejdz w taska i...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10105-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-12]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-12">ISTQB</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10073-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-43">TP-43</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-43">Podstawy testowania</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10073-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-11]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-11">Types of testings</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 24/sty/19
+
+                                                    &nbsp;Rozwiązane: 24/sty/19
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Gotowe</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Gotowe
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10072-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-41">TP-41</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-41">Testy funkcjonalne: co to i jakie są,...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-42">TP-42</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-42">Testy NIE funkcjonalne: co to i jakie...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10072-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-10]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-10">Testing Strategies</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 21/sty/19
+
+                                                    &nbsp;Rozwiązane: 21/sty/19
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Gotowe</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Gotowe
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10071-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-38">TP-38</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-38">Black Box</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-39">TP-39</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-39">White Box</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-40">TP-40</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-40">Gray Box</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10071-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-9]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-9">Test Scripts, Test Cases, and Test Scenarios</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 05/lut/19
+
+                                                    &nbsp;Rozwiązane: 05/lut/19
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Gotowe</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Gotowe
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10070-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10070-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-8]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-8">Testing REST Api</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 12/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10069-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-36">TP-36</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-36">Testowanie API poprzez SoapUI</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-37">TP-37</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-37">Testowanie API przez Postman</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10069-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-7]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-7">Scrum</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 12/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10068-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-33">TP-33</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-33">Sprinty</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-34">TP-34</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-34">Role</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-35">TP-35</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-35">sprint planing, retrospection, refine...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10068-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-6]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-6">Software Life Cycle</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 12/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10067-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-32">TP-32</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-32">SDLC</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10067-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-5]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-5">Google Dev Tools</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10066-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-28">TP-28</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-28">Obczajenie zakładki console i jej moż...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-29">TP-29</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-29">Zakładka network i jej możliwości</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-30">TP-30</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-30">Metody HTTP (POST, GET, PUT, DELETE)</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-31">TP-31</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-31">Statusy błędów: Znać róznice pomiędzy...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10066-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-4]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-4">Systemy do raportowania błędów</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10065-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-26">TP-26</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-26">ZEPHYR</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-27">TP-27</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-27">Testrail</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10065-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-3]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-3">Git, Github</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10064-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-21">TP-21</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-21">Co to jest repozytorium i jak je twor...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-22">TP-22</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-22">Dodawanie plików do repozytorium: git...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-23">TP-23</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-23">Dodawanie plików do commitowania: git...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-24">TP-24</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-24">Co to jest commit i jak tego używać:</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-25">TP-25</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-25">Zdalne repozytoria: github, bitbucket</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10064-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-2]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-2">HTML, CSS, JavaScript</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10063-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10063-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TP-1]&nbsp;<a href="https://pebrzoski.atlassian.net/browse/TP-1">SQL - MySQL</a>
+            <span class="subText">
+               Utworzono: 12/sty/19                   &nbsp;Zaktualizowano: 16/sty/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://pebrzoski.atlassian.net/secure/BrowseProject.jspa?id=10011">Testowanie - Pawel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Odnośne wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersja naprawy:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                
+                        
+            
+                        <a class="user-hover" rel="admin"
+                    id="word_reporter_admin"
+                    href="https://pebrzoski.atlassian.net/secure/ViewProfile.jspa?accountId=5c3722264af3653588c559b3">
+                        Piotr Brzoski
+                    </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10062-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Czas poświęcony:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Pierwotne oszacowanie:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Podzadania:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Klucz</b><br/>
+                </td>
+                <td>
+                    <b>Podsumowanie</b><br/>
+                </td>
+                <td>
+                    <b>Typ</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Osoba przypisana</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-13">TP-13</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-13">Tworzenie bazy danych</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-14">TP-14</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-14">Tworzenie tabelek i kolumn(typy kolum...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-15">TP-15</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-15">Dodawanie rekordów do tabelek: INSERT</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        W toku
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-16">TP-16</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-16">Proste wyszukiwania SELECT</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-17">TP-17</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-17">Używanie WHERE </a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Gotowe
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-18">TP-18</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-18">grupowanie i sortowanie GROUP BY, SORT</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        W toku
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-19">TP-19</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-19">zliczanie rekordów</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-20">TP-20</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://pebrzoski.atlassian.net/browse/TP-20">PROSTE JOINY: JOIN, LEFT JOIN, RIGHT ...</a>
+                    </td>
+                    <td>
+                        Podzadanie
+                    </td>
+                    <td>
+                        Do zrobienia
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10021-10062-value" class="value" bgcolor="#ffffff" width="80%">PODSTAWY TESTOWANIA</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Wygenerowane (Sun Feb 17 13:12:34 UTC 2019) przez Piotr Brzoski z użyciem systemu Jira 1001.0.0-SNAPSHOT#100098-sha1:f7ec45bd77695d5e7a9c7efacad24cbff448fbd1.
+
+</body>
+</html>
